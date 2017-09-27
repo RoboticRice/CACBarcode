@@ -1,3 +1,6 @@
+#Private or Local directories, such as those with sensative information in them
+Private/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
